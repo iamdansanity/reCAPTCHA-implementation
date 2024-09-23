@@ -24,6 +24,7 @@
                     <input type="password" class="form-control" id="password" name="password" required>
                 </div>
                 <div class="g-recaptcha" data-sitekey="6LcvqEwqAAAAACshsBXOXO_wyiFn16u1g5alS__y"></div>
+                <-- THIS IS THE CHECKBOX BUTTON FOR RECAPTCHA TOGERTHER WITH SITE KEY-->
                 <button type="submit" class="btn btn-primary btn-block">Login</button>
                 <p class="text-center mt-3">Don't have an account? <a href="signup.php">Sign up</a></p>
             </form>
