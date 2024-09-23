@@ -32,6 +32,7 @@
                     <textarea class="form-control" id="message" name="message" rows="5" required></textarea>
                 </div>
                 <div class="g-recaptcha" data-sitekey="6LcvqEwqAAAAACshsBXOXO_wyiFn16u1g5alS__y"></div>
+                <-- THIS DIV IS THE CHECKBOX FOR RECAPTCHA-->
                 <button type="submit" class="btn btn-primary btn-block">Send Message</button>
             </form>
         </div>
